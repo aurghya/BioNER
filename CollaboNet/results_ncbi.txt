@@ -1,0 +1,131 @@
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   0 == | train time : 4 Min |
+ train loss: 7.799495
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   1 == | train time : 4 Min |
+ train loss: 4.357256
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   2 == | train time : 3 Min |
+ train loss: 0.067040
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   3 == | train time : 1 Min |
+ train loss: 2.871180
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   4 == | train time : 1 Min |
+ train loss: 3.828609
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   5 == | train time : 1 Min |
+ train loss: 1.178978
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   6 == | train time : 1 Min |
+ train loss: 0.681335
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   7 == | train time : 1 Min |
+ train loss: 0.191645
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   8 == | train time : 3 Min |
+ train loss: 0.427472
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:   9 == | train time : 4 Min |
+ train loss: 0.604488
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  10 == | train time : 3 Min |
+ train loss: 0.104744
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  11 == | train time : 3 Min |
+ train loss: 0.441237
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  12 == | train time : 2 Min |
+ train loss: 0.358402
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  13 == | train time : 3 Min |
+ train loss: 1.699608
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  14 == | train time : 3 Min |
+ train loss: 0.261858
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  15 == | train time : 3 Min |
+ train loss: 0.795636
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  16 == | train time : 2 Min |
+ train loss: 1.489082
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  17 == | train time : 1 Min |
+ train loss: 0.219113
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  18 == | train time : 1 Min |
+ train loss: 1.064315
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  19 == | train time : 1 Min |
+ train loss: 0.318479
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  20 == | train time : 1 Min |
+ train loss: 1.293081
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  21 == | train time : 1 Min |
+ train loss: 0.384351
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  22 == | train time : 1 Min |
+ train loss: 0.176766
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  23 == | train time : 1 Min |
+ train loss: 0.061248
+[0 phase]
+====NCBI_MODEL Training=====
+== Epoch:  24 == | train time : 1 Min |
+ train loss: 0.095438
+====NCBI_MODEL Test=====
+[test] Precision : 0.8474 | Recall : 0.8466 | F1: 0.8470
+
+
+
+[1 phase]
+====NCBI_MODEL Training=====
+== Epoch:   0 == | train time : 1 Min |
+ train loss: 0.321171
+[2 phase]
+====NCBI_MODEL Training=====
+== Epoch:   1 == | train time : 1 Min |
+ train loss: 0.440461
+[3 phase]
+====NCBI_MODEL Training=====
+== Epoch:   2 == | train time : 1 Min |
+ train loss: 0.306652
+[4 phase]
+====NCBI_MODEL Training=====
+== Epoch:   3 == | train time : 1 Min |
+ train loss: 0.222543
+[5 phase]
+====NCBI_MODEL Training=====
+== Epoch:   4 == | train time : 1 Min |
+ train loss: 0.068755
+[6 phase]
+====NCBI_MODEL Training=====
+== Epoch:   5 == | train time : 1 Min |
+ train loss: 0.003486
+====NCBI_MODEL Test=====
+[test] Precision : 0.8315 | Recall : 0.8653 | F1: 0.8481

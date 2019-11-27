@@ -1,0 +1,131 @@
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   0 == | train time : 2 Min |
+ train loss: 7.511937
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   1 == | train time : 2 Min |
+ train loss: 0.297697
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   2 == | train time : 2 Min |
+ train loss: 1.805451
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   3 == | train time : 2 Min |
+ train loss: 1.454008
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   4 == | train time : 2 Min |
+ train loss: 0.435342
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   5 == | train time : 2 Min |
+ train loss: 1.421493
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   6 == | train time : 2 Min |
+ train loss: 0.275015
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   7 == | train time : 2 Min |
+ train loss: 1.281735
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   8 == | train time : 2 Min |
+ train loss: 0.416920
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   9 == | train time : 2 Min |
+ train loss: 0.877138
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  10 == | train time : 2 Min |
+ train loss: 0.621569
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  11 == | train time : 2 Min |
+ train loss: 0.201399
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  12 == | train time : 2 Min |
+ train loss: 0.095429
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  13 == | train time : 2 Min |
+ train loss: 0.233227
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  14 == | train time : 2 Min |
+ train loss: 1.809282
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  15 == | train time : 2 Min |
+ train loss: 0.169013
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  16 == | train time : 2 Min |
+ train loss: 0.184265
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  17 == | train time : 2 Min |
+ train loss: 0.188345
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  18 == | train time : 2 Min |
+ train loss: 0.083131
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  19 == | train time : 2 Min |
+ train loss: 0.725246
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  20 == | train time : 2 Min |
+ train loss: 0.645981
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  21 == | train time : 2 Min |
+ train loss: 0.247997
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  22 == | train time : 2 Min |
+ train loss: 1.393464
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  23 == | train time : 2 Min |
+ train loss: 0.053183
+[0 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:  24 == | train time : 2 Min |
+ train loss: 0.109179
+====BC5CDR-CHEM_MODEL Test=====
+[test] Precision : 0.9388 | Recall : 0.8982 | F1: 0.9181
+
+
+
+[1 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   0 == | train time : 2 Min |
+ train loss: 0.395669
+[2 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   1 == | train time : 2 Min |
+ train loss: 0.383017
+[3 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   2 == | train time : 2 Min |
+ train loss: 0.029769
+[4 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   3 == | train time : 2 Min |
+ train loss: 0.061425
+[5 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   4 == | train time : 2 Min |
+ train loss: 0.100339
+[6 phase]
+====BC5CDR-CHEM_MODEL Training=====
+== Epoch:   5 == | train time : 2 Min |
+ train loss: 0.028589
+====BC5CDR-CHEM_MODEL Test=====
+[test] Precision : 0.9405 | Recall : 0.8963 | F1: 0.9179
