@@ -1,0 +1,132 @@
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   0 == | train time : 2 Min |
+ train loss: 12.100533
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   1 == | train time : 2 Min |
+ train loss: 1.438226
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   2 == | train time : 2 Min |
+ train loss: 1.798488
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   3 == | train time : 2 Min |
+ train loss: 1.266462
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   4 == | train time : 2 Min |
+ train loss: 3.703021
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   5 == | train time : 2 Min |
+ train loss: 0.306467
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   6 == | train time : 2 Min |
+ train loss: 1.413433
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   7 == | train time : 2 Min |
+ train loss: 0.874169
+
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   8 == | train time : 2 Min |
+ train loss: 0.986924
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   9 == | train time : 2 Min |
+ train loss: 0.678408
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  10 == | train time : 2 Min |
+ train loss: 0.563776
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  11 == | train time : 2 Min |
+ train loss: 0.119980
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  12 == | train time : 2 Min |
+ train loss: 0.609429
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  13 == | train time : 2 Min |
+ train loss: 0.184676
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  14 == | train time : 2 Min |
+ train loss: 0.417471
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  15 == | train time : 2 Min |
+ train loss: 0.480307
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  16 == | train time : 2 Min |
+ train loss: 0.391271
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  17 == | train time : 2 Min |
+ train loss: 1.660534
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  18 == | train time : 2 Min |
+ train loss: 0.179054
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  19 == | train time : 2 Min |
+ train loss: 0.322845
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  20 == | train time : 2 Min |
+ train loss: 0.515192
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  21 == | train time : 2 Min |
+ train loss: 0.299185
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  22 == | train time : 2 Min |
+ train loss: 0.618909
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  23 == | train time : 2 Min |
+ train loss: 0.151405
+[0 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:  24 == | train time : 2 Min |
+ train loss: 0.290716
+====BC5CDR-DISEASE_MODEL Test=====
+[test] Precision : 0.8169 | Recall : 0.8204 | F1: 0.8186
+
+
+[1 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   0 == | train time : 2 Min |
+ train loss: 0.319164
+[2 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   1 == | train time : 2 Min |
+ train loss: 0.241373
+[3 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   2 == | train time : 2 Min |
+ train loss: 0.239589
+[4 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   3 == | train time : 2 Min |
+ train loss: 0.156581
+[5 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   4 == | train time : 2 Min |
+ train loss: 1.726567
+[6 phase]
+====BC5CDR-DISEASE_MODEL Training=====
+== Epoch:   5 == | train time : 2 Min |
+ train loss: 0.126027
+====BC5CDR-DISEASE_MODEL Test=====
+[test] Precision : 0.8296 | Recall : 0.8349 | F1: 0.8322
+
